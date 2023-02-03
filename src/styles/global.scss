@@ -1,0 +1,7 @@
+$base-color: #c6538c;//Se asigna un color base
+$color: rgba(black, 0.88);//Se asigna un color base y una transparencia 0.88
+
+body {
+  background-color: $base-color;//Se asigna un color de fondo 
+  color: $color;//Se asigna un color al texto
+}
